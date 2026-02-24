@@ -49,7 +49,7 @@ export const tasks: Task[] = [
     startDate: '2026-01-16',
     endDate: '2026-07-15',
     completion: 20,
-    status: 'On Track',
+    status: 'Completed',
     duration: 180
   },
   {
